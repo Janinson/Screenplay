@@ -1,0 +1,12 @@
+com/sqa/demoguru/automations/models/DataUser.java
+ com.sqa.demoguru.automations.models.DataUser
+com/sqa/demoguru/automations/userinterfaces/DemoGuruPage.java
+ com.sqa.demoguru.automations.userinterfaces.DemoGuruPage
+com/sqa/demoguru/automations/task/OpenTheBrowser.java
+ com.sqa.demoguru.automations.task.OpenTheBrowser
+com/sqa/demoguru/automations/task/Select.java
+ com.sqa.demoguru.automations.task.Select
+com/sqa/demoguru/automations/userinterfaces/DemoGuruComponent.java
+ com.sqa.demoguru.automations.userinterfaces.DemoGuruComponent
+com/sqa/demoguru/automations/userinterfaces/DemoGuruLoginPage.java
+ com.sqa.demoguru.automations.userinterfaces.DemoGuruLoginPage
